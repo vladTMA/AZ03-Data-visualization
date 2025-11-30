@@ -1,0 +1,8 @@
+# requirements.txt
+selenium
+webdriver-manager
+undetected-chromedriver
+pandas
+openpyxl
+pytest
+
