@@ -1,0 +1,13 @@
+# Основные библиотеки для анализа и визуализации
+numpy
+pandas
+matplotlib
+openpyxl
+
+# Парсинг и Selenium
+selenium
+webdriver-manager
+undetected-chromedriver
+
+# Тестирование
+pytest
